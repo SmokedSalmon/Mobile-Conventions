@@ -5,3 +5,4 @@ Mar 22 12:22:46 2014 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=
 Mar 22 22:43:19 2014 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 18
 Mar 22 09:43:54 2014 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=Added item 11
 Mar 22 20:23:35 2014 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=change folder names/修改文件夹
+Apr 26 13:48:42 2014 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=Update/更新 README.md
