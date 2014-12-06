@@ -42,3 +42,4 @@ Dec 6 15:05:53 2014 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=a
 Dec 6 11:48:47 2014 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 22
 Dec 6 22:36:59 2014 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 20
 Dec 6 12:38:27 2014 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=新MD文件规范
+Dec 6 12:23:38 2014 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 14
