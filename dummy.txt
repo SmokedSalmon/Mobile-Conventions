@@ -45,3 +45,4 @@ Dec 6 12:38:27 2014 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=Ð
 Dec 6 12:23:38 2014 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 14
 Dec 6 13:11:18 2014 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=initial commit
 Jan 10 10:10:49 2015 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=initial commit
+Jan 10 14:58:40 2015 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=Added item 11
