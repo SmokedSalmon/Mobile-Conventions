@@ -105,3 +105,4 @@ Sep 5 10:37:47 2015 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=a
 Sep 5 12:10:07 2015 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 28
 Sep 5 13:57:37 2015 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 23
 Oct 3 11:56:29 2015 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 29
+Oct 10 15:53:54 2015 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 24
