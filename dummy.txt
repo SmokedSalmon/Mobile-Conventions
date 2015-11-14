@@ -113,3 +113,4 @@ Oct 10 11:03:49 2015 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=
 Oct 17 21:46:54 2015 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 26
 Nov 7 21:04:34 2015 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=updated/¸üÐÂ .gitignore
 Nov 7 17:49:44 2015 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 28
+Nov 14 21:56:31 2015 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 14
