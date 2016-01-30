@@ -125,3 +125,4 @@ Jan 9 16:03:51 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=a
 Jan 9 11:08:21 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 27
 Jan 23 11:57:36 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=cleaning up/ÎÄµµÇåÉ¨
 Jan 23 21:49:06 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=minor editing/Î´¹éµµÐÞ¸Ä
+Jan 30 18:16:50 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 12
