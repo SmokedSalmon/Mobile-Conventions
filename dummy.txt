@@ -126,3 +126,4 @@ Jan 9 11:08:21 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=a
 Jan 23 11:57:36 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=cleaning up/文档清扫
 Jan 23 21:49:06 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=minor editing/未归档修改
 Jan 30 18:16:50 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 12
+Feb 6 09:37:05 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=updated/更新 .gitignore
