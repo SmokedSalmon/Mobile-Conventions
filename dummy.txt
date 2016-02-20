@@ -128,3 +128,4 @@ Jan 23 21:49:06 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=
 Jan 30 18:16:50 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 12
 Feb 6 09:37:05 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=updated/更新 .gitignore
 Feb 13 20:51:53 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 12
+Feb 20 15:56:21 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=Update/更新 README.md
