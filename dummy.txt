@@ -130,3 +130,4 @@ Feb 6 09:37:05 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=u
 Feb 13 20:51:53 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 12
 Feb 20 15:56:21 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=Update/更新 README.md
 Feb 20 19:11:57 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 17
+Feb 27 22:18:31 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=新MD文件规范
