@@ -170,3 +170,4 @@ Aug 27 15:48:11 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=
 Sep 3 10:17:40 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 30
 Sep 3 21:38:39 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 12
 Sep 24 22:56:39 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=change folder names/ÐÞ¸ÄÎÄ¼þ¼Ð
+Oct 1 13:05:12 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=Added item 11
