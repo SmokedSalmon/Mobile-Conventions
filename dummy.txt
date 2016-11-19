@@ -176,3 +176,4 @@ Oct 1 19:54:02 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=a
 Oct 15 14:46:43 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 22
 Oct 29 20:27:03 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 18
 Oct 29 10:43:01 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=新MD文件规范
+Nov 19 13:09:12 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=cleaning up/文档清扫
