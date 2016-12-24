@@ -186,3 +186,4 @@ Nov 19 18:53:15 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=
 Nov 26 13:07:35 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 13
 Dec 10 09:22:43 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 30
 Dec 10 21:43:48 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=minor editing/Î´¹éµµÐÞ¸Ä
+Dec 24 19:33:03 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=Extracted function to parse daily count from a Contributions SVG and ¡­
