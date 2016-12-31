@@ -188,3 +188,4 @@ Dec 10 09:22:43 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=
 Dec 10 21:43:48 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=minor editing/Î´¹éµµÐÞ¸Ä
 Dec 24 19:33:03 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=Extracted function to parse daily count from a Contributions SVG and ¡­
 Dec 24 16:27:49 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=initial commit
+Dec 31 20:51:28 2016 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=cleaning up/ÎÄµµÇåÉ¨
