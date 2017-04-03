@@ -7,3 +7,4 @@ Apr 1 19:13:41 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=a
 Apr 2 18:54:28 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 26
 Apr 3 23:35:00 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 18
 Apr 3 23:46:55 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=minor editing/Î´¹éµµÐÞ¸Ä
+Apr 3 20:25:33 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=Update/¸üÐÂ README.md
