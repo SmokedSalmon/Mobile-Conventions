@@ -20,3 +20,4 @@ Apr 6 18:31:50 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=m
 Apr 6 22:56:32 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 16
 Apr 6 21:14:26 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 29
 Apr 7 14:44:50 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 27
+Apr 7 20:55:38 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=updated/¸üÐÂ .gitignore
