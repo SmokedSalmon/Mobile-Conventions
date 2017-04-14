@@ -91,3 +91,4 @@ Apr 14 13:12:34 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=
 Apr 14 11:32:56 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=Extracted function to parse daily count from a Contributions SVG and ¡­
 Apr 14 12:14:29 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 19
 Apr 14 20:12:04 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=initial commit
+Apr 14 22:46:04 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=Update/¸üÐÂ README.md
