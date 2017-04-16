@@ -129,3 +129,4 @@ Apr 16 18:48:57 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=
 Apr 16 13:14:12 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 20
 Apr 16 13:12:46 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 19
 Apr 16 14:38:27 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=updated/¸üÐÂ .gitignore
+Apr 16 15:54:47 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=Extracted function to parse daily count from a Contributions SVG and ¡­
