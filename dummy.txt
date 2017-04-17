@@ -137,3 +137,4 @@ Apr 17 23:08:32 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=
 Apr 17 11:57:16 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 21
 Apr 17 23:33:28 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=新MD文件规范
 Apr 17 16:34:19 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 26
+Apr 17 13:56:26 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=Extracted function to parse daily count from a Contributions SVG and …
