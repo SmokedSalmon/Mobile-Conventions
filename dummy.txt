@@ -156,3 +156,4 @@ Apr 22 12:05:48 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=
 Apr 22 11:53:24 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 24
 Apr 22 18:55:58 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=change folder names/修改文件夹
 Apr 22 22:01:43 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 15
+Apr 22 13:26:48 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=新MD文件规范
