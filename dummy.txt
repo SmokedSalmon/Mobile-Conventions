@@ -188,3 +188,4 @@ Apr 27 12:03:40 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=
 Apr 27 18:00:36 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=updated/更新 .gitignore
 Apr 27 16:46:44 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=新MD文件规范
 Apr 27 19:47:42 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 19
+Apr 27 12:12:44 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 17
