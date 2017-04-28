@@ -200,3 +200,4 @@ Apr 28 15:30:32 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=
 Apr 28 14:52:25 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=cleaning up/文档清扫
 Apr 28 11:46:03 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=add/modify 21
 Apr 28 22:12:52 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=updated/更新 .gitignore
+Apr 28 09:08:48 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=minor editing/未归档修改
