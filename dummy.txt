@@ -1,1 +1,0 @@
-Apr  3 12:44:44 2017 +0800 SmokedSalmon <jerrysu.jie@gmail.com>, commit message=refactoring
